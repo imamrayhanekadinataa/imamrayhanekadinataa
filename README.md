@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1 align="center">Hi 👋, I'm IRE</h1>
 <h3 align="center">Passionate on Programming based on currently my mood.</h3>
 

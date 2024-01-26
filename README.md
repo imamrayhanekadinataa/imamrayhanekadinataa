@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm IRE</h1>
 <h3 align="center">Passionate on Programming based on currently my mood.</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamrayhanekadinataa&label=Profile%20views&color=0e75b6&style=flat" alt="imamrayhanekadinataa" /> </p>
 
@@ -9,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **Union Community Fivem**
 
 - 🌱 I’m currently learning **C#, Laravel, ReactJS**

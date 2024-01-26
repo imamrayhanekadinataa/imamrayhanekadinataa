@@ -1,6 +1,7 @@
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1 align="center">Hi 👋, I'm IRE</h1>
 <h3 align="center">Passionate on Programming based on currently my mood.</h3>
-<iframe src="https://gifer.com/embed/3AyY" width=480 height=275.200 frameBorder="0" align="right" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamrayhanekadinataa&label=Profile%20views&color=0e75b6&style=flat" alt="imamrayhanekadinataa" /> </p>
 

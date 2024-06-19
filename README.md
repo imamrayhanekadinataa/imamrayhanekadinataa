@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm IRE</h1>
-<h3 align="center">Passionate on Programming based on currently my mood.</h3>
+<h3 align="center">...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamrayhanekadinataa&label=Profile%20views&color=0e75b6&style=flat" alt="imamrayhanekadinataa" /> </p>
 
